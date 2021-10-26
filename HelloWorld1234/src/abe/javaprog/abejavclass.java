@@ -1,10 +1,9 @@
-package HELLO;
+package abe.javaprog;
 
-public class myjava {
+public class abejavclass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("exercising java pays off");
 
 	}
 
