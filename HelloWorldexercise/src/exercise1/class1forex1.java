@@ -6,5 +6,5 @@ public class class1forex1 {
 		// TODO Auto-generated method stub
 System.out.println ("my java exercise project ");
 	}
-
+System.out.println ("adding sth in the gitrep");
 }
